@@ -5,7 +5,7 @@ This project serves to demonstrate the basics of various software design pattern
 
 ## Structure
 
-The code for design patterns is located under the `DesignPatterns` folder, and then further separated into different folders depending on the type of the design pattern.
+The code for design patterns is located under the `DesignPatterns` folder, and then further separated into different folders depending on the type of the design pattern. <br />
 The different types are:
 * Behavioral
 * Creational

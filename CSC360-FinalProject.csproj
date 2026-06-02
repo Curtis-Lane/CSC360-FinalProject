@@ -9,10 +9,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DesignPatterns\Creational\" />
     <Folder Include="DesignPatterns\Behavioral\" />
     <Folder Include="DesignPatterns\Structural\" />
-    <Folder Include="Examples\" />
   </ItemGroup>
 
 </Project>

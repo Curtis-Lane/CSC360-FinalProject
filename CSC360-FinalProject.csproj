@@ -9,7 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DesignPatterns\Behavioral\" />
     <Folder Include="DesignPatterns\Structural\" />
   </ItemGroup>
 

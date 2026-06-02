@@ -1,4 +1,4 @@
-using CSC360_FinalProject.Examples.Creational.Singleton;
+using CSC360_FinalProject.Examples.Behavioral.Observer;
 
 namespace CSC360_FinalProject {
 	public class Program {
